@@ -1,7 +1,5 @@
 
-<p><a href="https://omkarpathak.in"><img src="https://i.imgur.com/HcaHoth.png" alt="img"></a></p>
-<hr>
-<p>Credits: <a href="https://github.com/OmkarPathak">Dtongg03</a></p>
+
 
 
 ###
