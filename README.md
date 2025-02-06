@@ -54,6 +54,10 @@
 
 ###
 
+<img align="right" height="200" src="https://media.giphy.com/media/zkNBtlymM6zX4DndrU/giphy.gif?cid=790b7611x31hk1jkqqkzkb25o2vnxb71e2yxr9mxbkcph7o0&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+
+###
+
 <div align="left">
   <a href="https://www.youtube.com/@dtongg03" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -73,18 +77,6 @@
 
 ###
 
-<img align="right" height="200" src="https://media.giphy.com/media/zkNBtlymM6zX4DndrU/giphy.gif?cid=790b7611x31hk1jkqqkzkb25o2vnxb71e2yxr9mxbkcph7o0&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/xzucyvvq3btt2lo8uhsw7sc5u">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=xzucyvvq3btt2lo8uhsw7sc5u&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Dtongg03/Dtongg03/output/snake.svg" alt="Snake animation" />
@@ -93,12 +85,6 @@
 
 <div align="center">
   <img height="1000" src="https://giffiles.alphacoders.com/215/215585.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="999" src="https://media.giphy.com/media/sVjI0DHrIqs23VI06K/giphy.gif?cid=ecf05e47qske3s37lcwkk2uwzc5qmk5p3azzp1exvf49t3ii&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
 
 ###
