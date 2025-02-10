@@ -78,7 +78,6 @@
 </div>
 
 ###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Dtongg03/Dtongg03/output/snake.svg" alt="Snake animation" />
