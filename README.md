@@ -54,12 +54,6 @@
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="ubuntu logo"  />
 </div>
 
-###
-
-<img align="right" height="200" src="https://media.giphy.com/media/zkNBtlymM6zX4DndrU/giphy.gif?cid=790b7611x31hk1jkqqkzkb25o2vnxb71e2yxr9mxbkcph7o0&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
-###
-
 <div align="left">
   <a href="https://www.youtube.com/@dtongg03" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
